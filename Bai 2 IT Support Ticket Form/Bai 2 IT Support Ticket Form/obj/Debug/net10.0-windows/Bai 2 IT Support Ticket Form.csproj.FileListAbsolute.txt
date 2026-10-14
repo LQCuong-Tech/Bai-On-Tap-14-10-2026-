@@ -1,0 +1,17 @@
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\bin\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.exe
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\bin\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.deps.json
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\bin\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.runtimeconfig.json
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\bin\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.dll
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\bin\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.pdb
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\Bai_2_IT_Support_Ticket_Form.Form1.resources
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.csproj.GenerateResource.cache
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.AssemblyInfoInputs.cache
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.AssemblyInfo.cs
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.csproj.CoreCompileInputs.cache
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.dll
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\refint\Bai 2 IT Support Ticket Form.dll
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.pdb
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\Bai 2 IT Support Ticket Form.genruntimeconfig.cache
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\ref\Bai 2 IT Support Ticket Form.dll
+D:\LT .Net\Bai 2 IT Support Ticket Form\Bai 2 IT Support Ticket Form\obj\Debug\net10.0-windows\Bai 2 IT.4B770EAF.Up2Date
