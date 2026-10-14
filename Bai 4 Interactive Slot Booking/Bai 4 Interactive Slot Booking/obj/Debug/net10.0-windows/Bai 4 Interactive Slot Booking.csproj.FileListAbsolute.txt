@@ -1,0 +1,17 @@
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\bin\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.exe
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\bin\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.deps.json
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\bin\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.runtimeconfig.json
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\bin\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.dll
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\bin\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.pdb
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\Bai_4_Interactive_Slot_Booking.Form1.resources
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.csproj.GenerateResource.cache
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.AssemblyInfoInputs.cache
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.AssemblyInfo.cs
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.csproj.CoreCompileInputs.cache
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.dll
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\refint\Bai 4 Interactive Slot Booking.dll
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.pdb
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\Bai 4 Interactive Slot Booking.genruntimeconfig.cache
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\ref\Bai 4 Interactive Slot Booking.dll
+D:\LT .Net\Bai 4 Interactive Slot Booking\Bai 4 Interactive Slot Booking\obj\Debug\net10.0-windows\Bai 4 In.942800BE.Up2Date
