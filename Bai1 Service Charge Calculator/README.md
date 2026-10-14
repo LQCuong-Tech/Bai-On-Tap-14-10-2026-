@@ -18,5 +18,5 @@
 ![Thực thi chức năng](./screenshorts/Result.png)
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-![Kiểm tra lỗi](./screenshorts/Error.png)
-![Kiểm tra lỗi](./screenshorts/Error.png)
+![Kiểm tra lỗi](./screenshorts/Error1.png)
+![Kiểm tra lỗi](./screenshorts/Error2.png)
