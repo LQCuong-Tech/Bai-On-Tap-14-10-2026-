@@ -1,0 +1,17 @@
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\bin\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.exe
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\bin\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.deps.json
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\bin\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.runtimeconfig.json
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\bin\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.dll
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\bin\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.pdb
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\Bai_5_Delivery_Order_Dashboard.Form1.resources
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.csproj.GenerateResource.cache
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.AssemblyInfoInputs.cache
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.AssemblyInfo.cs
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.csproj.CoreCompileInputs.cache
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.dll
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\refint\Bai 5 Delivery Order Dashboard.dll
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.pdb
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\Bai 5 Delivery Order Dashboard.genruntimeconfig.cache
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\ref\Bai 5 Delivery Order Dashboard.dll
+D:\LT .Net\Bai 5 Delivery Order Dashboard\Bai 5 Delivery Order Dashboard\obj\Debug\net10.0-windows\Bai 5 De.D9FB2773.Up2Date
