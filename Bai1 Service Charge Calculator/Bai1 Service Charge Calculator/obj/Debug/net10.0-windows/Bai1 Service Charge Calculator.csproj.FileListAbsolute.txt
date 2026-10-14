@@ -1,0 +1,17 @@
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\bin\Debug\net10.0-windows\Bai1 Service Charge Calculator.exe
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\bin\Debug\net10.0-windows\Bai1 Service Charge Calculator.deps.json
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\bin\Debug\net10.0-windows\Bai1 Service Charge Calculator.runtimeconfig.json
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\bin\Debug\net10.0-windows\Bai1 Service Charge Calculator.dll
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\bin\Debug\net10.0-windows\Bai1 Service Charge Calculator.pdb
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\Bai1_Service_Charge_Calculator.Form1.resources
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\Bai1 Service Charge Calculator.csproj.GenerateResource.cache
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\Bai1 Service Charge Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\Bai1 Service Charge Calculator.AssemblyInfoInputs.cache
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\Bai1 Service Charge Calculator.AssemblyInfo.cs
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\Bai1 Service Charge Calculator.csproj.CoreCompileInputs.cache
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\Bai1 Service Charge Calculator.dll
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\refint\Bai1 Service Charge Calculator.dll
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\Bai1 Service Charge Calculator.pdb
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\Bai1 Service Charge Calculator.genruntimeconfig.cache
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\ref\Bai1 Service Charge Calculator.dll
+D:\LT .Net\Bai1 Service Charge Calculator\Bai1 Service Charge Calculator\obj\Debug\net10.0-windows\Bai1 Ser.B2916C37.Up2Date
